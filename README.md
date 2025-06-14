@@ -57,3 +57,6 @@
 3. 仮想環境内で依存ライブラリをインストール：
    ```bash
    pip install -r requirements.txt
+
+## ライセンス
+このプロジェクトは [MIT License](LICENSE) のもとで公開しています。
